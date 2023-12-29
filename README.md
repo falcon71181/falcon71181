@@ -20,7 +20,7 @@ const whoAmI = () => {
     discord: "falcon_clutch71",
     age: 21,
     country: "India",   // PROUD INDIAN
-    os: "Arch Linux",  // ARCH Better >>>>>>
+    os: "Arch Linux",  // I use Arch BTW
     status: "single & broke",  // + Lazy
   };
   return JSON.stringify(me);
@@ -29,4 +29,4 @@ const whoAmI = () => {
 console.log(whoAmI());
 ```
 
-<img src="https://camo.githubusercontent.com/2e3e40bfcbdf7d4a39e66a9b44bff510fc47cfb7007035ad088caf86d97d9cff/68747470733a2f2f692e67697068792e636f6d2f6d656469612f595169744534594e514e6168792f67697068792e77656270">
+<img src="https://media1.tenor.com/m/7XGeZeBfyUYAAAAC/hack.gif" width="500" height="300"><img src="https://media1.tenor.com/m/PMITaIPBRBkAAAAC/hack-pc.gif" width="500" height="300">
