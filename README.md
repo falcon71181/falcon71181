@@ -29,4 +29,4 @@ const whoAmI = () => {
 console.log(whoAmI());
 ```
 
-<img src="https://media1.tenor.com/m/7XGeZeBfyUYAAAAC/hack.gif" width="500" height="300"><img src="https://media1.tenor.com/m/PMITaIPBRBkAAAAC/hack-pc.gif" width="500" height="300">
+<img src="https://media1.tenor.com/m/7XGeZeBfyUYAAAAC/hack.gif" width="400" height="300"><img src="https://media1.tenor.com/m/PMITaIPBRBkAAAAC/hack-pc.gif" width="400" height="300">
