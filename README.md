@@ -21,7 +21,7 @@ const whoAmI = () => {
     age: 21,
     country: "India",   // PROUD INDIAN
     os: "Arch Linux",  // I use Arch BTW
-    status: "single & broke",  // + Lazy
+    status: "single & broke",  // + Lazy + Dumb
   };
   return JSON.stringify(me);
 };
