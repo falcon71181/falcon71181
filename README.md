@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="300px" src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" />
+<img align="right" alt="GIF" height="250px" src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" />
 <h3> Hi 👋🏼 I'm falcon71181 !</h3>
 
 ## 🌐 Socials:
