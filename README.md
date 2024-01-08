@@ -1,6 +1,5 @@
+<img align="right" alt="GIF" height="300px" src="https://media.tenor.com/N5fU8iyU9F4AAAAi/shigure-ui-dance.gif" />
 <h3> Hi 👋🏼 I'm falcon71181 !</h3>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/falcon_clutch71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falcon71181) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-thakur-73470b287) 
