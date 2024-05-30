@@ -2,14 +2,14 @@
 <h3> Hi 👋🏼 I'm falcon71181 !</h3>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/falcon_clutch71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falcon71181) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-thakur-73470b287) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/falcon_clutch71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falcon71181) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-thakur-81a3952bb) 
 
 Open source is awesome right? <img src="https://github.com/hahwul/hahwul/assets/13212227/af41f7bf-5b41-42dd-aed3-8560a6e3187d" width="50">
 
 <h2>$whoami</h2>
 
 
-```bash
+```typescript
 const whoAmI = () => {
   const me = {
     name: "Abhay Thakur",
@@ -27,5 +27,3 @@ const whoAmI = () => {
 
 console.log(whoAmI());
 ```
-
-<img src="https://media1.tenor.com/m/7XGeZeBfyUYAAAAC/hack.gif" width="400" height="300"><img src="https://media1.tenor.com/m/PMITaIPBRBkAAAAC/hack-pc.gif" width="400" height="300">
