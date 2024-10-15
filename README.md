@@ -9,21 +9,26 @@ Open source is awesome right? <img src="https://github.com/hahwul/hahwul/assets/
 <h2>$whoami</h2>
 
 
-```typescript
-const whoAmI = () => {
-  const me = {
-    name: "Abhay Thakur",
-    nickname: "falcon71181",
-    mobileNo: 911,
-    instagram: "falcon71181",   // Insta SUCKS , uninstalled
-    discord: "falcon_clutch71",
-    age: 21,
-    country: "India",   // PROUD INDIAN
-    os: "Arch Linux",  // I use Arch BTW
-    status: "single & broke",  // + Lazy + Dumb
-  };
-  return JSON.stringify(me);
-};
+```rust
+use serde_json::json;
 
-console.log(whoAmI());
+fn who_am_i() -> String {
+    let me = json!({
+        "name": "Abhay Thakur",
+        "nickname": "falcon71181",
+        "mobileNo": 911,
+        "instagram": "falcon71181", // Insta SUCKS , uninstalled
+        "discord": "falcon_clutch71",
+        "age": 22,
+        "country": "India", // PROUD INDIAN
+        "os": "Arch Linux",  // I use Arch BTW
+        "status": "single & broke", // + Lazy + Dumb
+    });
+
+    me.to_string()
+}
+
+fn main() {
+    println!("{}", who_am_i());
+}
 ```
